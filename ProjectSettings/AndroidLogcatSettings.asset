@@ -1,0 +1,245 @@
+{
+    "m_SelectedDeviceId": "1351e2e1",
+    "m_SelectedPackage": {
+        "deviceId": "1351e2e1",
+        "name": "com.DefaultCompany.Setupyourroom1",
+        "processId": 17182,
+        "exited": true
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.miui.home",
+            "processId": 10171,
+            "exited": false
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 11736,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 13448,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 18736,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 20318,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 22162,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 26887,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 28910,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 31293,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 368,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 3139,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 4692,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 15798,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 19206,
+            "exited": false
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 20709,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 21944,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 27960,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 29243,
+            "exited": false
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 30494,
+            "exited": false
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 31554,
+            "exited": false
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 475,
+            "exited": false
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 2981,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 4638,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 6328,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 8546,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 9609,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 10620,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 11019,
+            "exited": true
+        },
+        {
+            "deviceId": "1351e2e1",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 17182,
+            "exited": true
+        },
+        {
+            "deviceId": "dcef4273",
+            "name": "com.DefaultCompany.Setupyourroom1",
+            "processId": 13522,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

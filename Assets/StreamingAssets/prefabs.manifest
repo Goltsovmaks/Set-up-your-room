@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2974545656
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 765bd558b591814d8cf6c5c089becda5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c9738f04afd478c59065efac3b42b8d4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82deadbf303bfb74187f81aa8d42b0e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdd1aeef67c40944ba73c50ad95a7432, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Azerilo/Free Rug Pack/Prefab/Rug2.prefab
+- Assets/Prefabs/_occer_ball.prefab
+- Assets/Prefabs/PBR Table/Prefabs/Wood Table.prefab
+Dependencies: []
